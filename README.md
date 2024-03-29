@@ -1,8 +1,3 @@
-# 💫About Me :
-### 🐱‍👓About me:
-<!--
-**hoangnuthuphuong/hoangnuthuphuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there 👋
 I'm Phuong, a third-year student majoring in Data Science and Artificial Intelligence at Hue University.
 
