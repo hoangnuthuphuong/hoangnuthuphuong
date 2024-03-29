@@ -1,3 +1,4 @@
+# 💫About Me :
 Hi there 👋
 I'm Phuong, a third-year student majoring in Data Science and Artificial Intelligence at Hue University.
 
